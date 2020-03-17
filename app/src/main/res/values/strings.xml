@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BtsWorld</string>
+    <string name = "str1">Hello, Welcome to the world of BTS!\nYou\'re in the right place, if you\'re an absolute fan of BTS.
+        Explore the unlimited possibilities and enjoy your time here!</string>
+    <string name = "str2">Going to the \'play games\' section</string>
+    <string name="str3">Description</string>
+    <string name="str4">Play Games</string>
+    <string name="str5">BTS World</string>
+<!--    <string name=""></string>-->
+    <string name="str7">Music</string>
+<!--    <string name=""></string>-->
+<!--    <string name=""></string>-->
+</resources>
