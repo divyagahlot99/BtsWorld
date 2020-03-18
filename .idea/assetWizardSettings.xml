@@ -66,7 +66,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="scalingPercent" value="108" />
+                                                <entry key="scalingPercent" value="97" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -76,7 +76,8 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundImage" value="C:\Users\DELL\Desktop\BTS_HD\bts.png" />
+                                      <entry key="foregroundImage" value="C:\Users\DELL\AndroidStudioProjects\BtsWorld\app\src\main\res\drawable\eight.jpg" />
+                                      <entry key="outputName" value="b1" />
                                     </map>
                                   </option>
                                 </PersistentState>
